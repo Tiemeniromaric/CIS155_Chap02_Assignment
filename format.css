@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    background-color: rgb(221, 235, 235);
+}
+h2 {
+    font-size: medium;
+    font-weight: 900;
+color: blue;
+}
+footer {
+    font-family: 'Times New Roman', Times, serif;
+    color: navy;
+}
+#top {
+    font-size: large;
+    font-weight: 900;
+    color: black;
+
+}
+p{
+    text-indent: 2em;
+    text-align: justify;
+    line-height: 1.5;
+}
+.im{
+    float: left;
+    margin-right: 15px;
+}
+section{
+    text-align: left;
+    margin-bottom: 130px;
+}
+#spe{
+       text-align: left;
+    margin-bottom: 40px;
+}
+em{
+    color: navy;
+    font-style: italic;
+    font-size: 5;
+    
+}
